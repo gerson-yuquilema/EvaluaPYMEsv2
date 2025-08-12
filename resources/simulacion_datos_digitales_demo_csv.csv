@@ -1,0 +1,4 @@
+empresa_id,ruc,visitas_red_social,interacciones,puntaje_reseñas,sesiones_app_web,duracion_sesion_minutos,dispositivo,red_social
+1,1790001111001,1500,800,4.7,900,22,Desktop,LinkedIn
+2,1790002222002,600,300,3.2,400,15,Móvil,Facebook
+3,1790003333003,100,40,1.6,100,6,Móvil,Instagram

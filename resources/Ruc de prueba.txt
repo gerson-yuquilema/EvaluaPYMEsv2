@@ -1,0 +1,8 @@
+Ruc de prueba:
+
+
+Bajo riesgo → 1790001111001
+
+Riesgo medio → 1790002222002
+
+Alto riesgo → 1790003333003

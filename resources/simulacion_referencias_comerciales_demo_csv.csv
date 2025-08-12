@@ -1,0 +1,4 @@
+empresa_id,ruc,proveedor,puntaje_comercial,comentarios,tiempo_promedio_pago_dias
+1,1790001111001,Proveedor A,4.6,Pagos puntualísimos,10
+2,1790002222002,Proveedor B,3,Pagos normales,30
+3,1790003333003,Proveedor C,1.8,Pagos atrasados,70
